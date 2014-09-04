@@ -4,7 +4,7 @@ hello_world
 First Repository of Mine On GitHub
 
 
-num_list=[1,2,3,4,5,7]
+num_list=[1,2,3,4,5,7,8]
 
 num_list.append(6)
 
